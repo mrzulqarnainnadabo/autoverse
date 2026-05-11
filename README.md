@@ -2,47 +2,49 @@
 
 **Nigeria's Premium Used Car Marketplace**
 
+![Autoverse Banner](https://via.placeholder.com/1200x400/0A0A0F/D4AF37?text=Autoverse)
+
 **"Find any car in Nigeria"** — Tokunbo • Foreign Used • Brand New
 
-![Autoverse Hero](https://via.placeholder.com/1200x600/0A0A0F/D4AF37?text=Autoverse+Hero+Banner)  
-<!-- Replace with actual screenshot later -->
-
 ### ✨ Live Preview
-[Open in Expo Go →](https://428a1484-03ad-456b-a63f-00c3591000c7-00-3uhpg3rccsuf0.expo.kirk.replit.dev/)
+[Open with Expo Go](https://428a1484-03ad-456b-a63f-00c3591000c7-00-3uhpg3rccsuf0.expo.kirk.replit.dev/)
+
+---
 
 ### Key Features
 
-- **Dark Luxury Design** — Gold (#D4AF37) + Silver (#C0C0C0) on deep black
-- **Smart Search** with real-time filters (Make, Condition, State, Price)
-- **Instagram Auto-Import** — Paste post URL → auto-extract car details
-- **Sell Flow** — Full listing form + photo picker
-- **Financing Calculator** built-in
-- **Dealer Dashboard** + Analytics
-- **Phone Auth** (Nigerian style — Name + Phone)
-- **Trust Badges** — Verified, Inspected, Escrow Protected
+- Dark luxury design with **Gold (#D4AF37)** and **Silver** accents
+- Smart Search with real-time filters (Make, Model, State, Price, Condition)
+- Instagram Auto-Import — Paste post link to create listing instantly
+- Full Sell Flow with photo upload
+- Built-in Financing Calculator
+- Dealer Dashboard & Analytics
+- Phone-based Authentication (Nigerian style)
+- Trust Badges (Verified, Inspected, Escrow)
 
-### Problem We're Solving
-- Odometer rollback fraud
-- Hidden accident & structural damage
-- Low trust between buyers & sellers across states
-- Expensive manual inspections
+---
 
-### Planned: AI AutoInspect (Next Major Feature)
-Upload car photos → Powerful AI analyzes damage, estimates condition score, detects red flags, and generates professional inspection report.
+### Problem We Solve
+- Odometer fraud
+- Hidden accident damage
+- Low trust between buyers and sellers
+- Slow and expensive manual car inspections
+
+### Planned Features
+- **AI AutoInspect** — Upload car photos → Get AI-powered inspection report (damage detection, condition score, red flags)
+- Advanced search & recommendations
+- Escrow payment integration
 
 ### Tech Stack
-- **React Native + Expo** (Latest)
-- **TypeScript**
-- **Tailwind / Custom Styling**
-- **AI Integration** ready (Claude / Gemini Vision)
+- React Native + Expo
+- TypeScript
+- Tailwind / Custom Styling
+- Ready for AI integration (Claude / Gemini Vision)
+
+---
 
 ### Screenshots
-
-<!-- Add 6–8 screenshots here (Home, Search, Sell, Car Detail, etc.) -->
-
-### Try It
-1. Scan the QR code in Replit with **Expo Go** app
-2. Or open the preview link on mobile
+*(Add screenshots here later)*
 
 ---
 
